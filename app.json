@@ -7,7 +7,7 @@
   "keywords": ["flask", "vue"],
   "env": {
     "FLASK_ENV": {
-      "description": "Flask Enviroment",
+      "description": "Flask Environment",
       "value": "production"
     },
     "SECRET": {
